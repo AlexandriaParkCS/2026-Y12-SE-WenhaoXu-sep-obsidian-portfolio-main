@@ -1,0 +1,5 @@
+The problem of facing high pressure situations such as a fire, and the lack of knowledge in facing these situations affects students, teachers and almost every person in modern society. 
+
+The impact of this problem is that many individuals are unable to respond effectively in  emergencies, leading to panic, poor decision making and unsafe evacuation behaviour, leading to more lifelong injuries and even fatalities. Existing educational approaches may not resonate or engage with students, creating problems in real emergencies.
+
+A successful solution to the problem would be an interactive decision making game that imitates the situations and split-second decisions one has to make during the events of a fire. Through the use of engaging game elements, immediate feedback loops and consequential learning, the solution would improve fire safety awareness while encouraging active participation and long-term learning retention.
