@@ -17,6 +17,7 @@ Locate the downloaded `.zip` file in your **Downloads** folder. Double-click the
 
 For example:
 `Fire Safety Game.app`
+
 ## Step 3: Open the Game
 Double-click **Fire Safety Game.app** to launch the game.
 
