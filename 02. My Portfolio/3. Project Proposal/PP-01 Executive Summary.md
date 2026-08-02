@@ -1,1 +1,3 @@
-...
+Fire Safety Education will be an educational tool designed for young students to learn about how to stay safe in a fire situation. Existing tools can be too boring and complex for the students, making it hard to reach children at times. Fire Safety Education aims to solve this problem by using gamification, allowing children to make their own decision such that they can apply this if they are in these dangerous situations. 
+
+Fire Safety Education will require only a web browser and basic internet access. The design focuses on accessibility and educational value, allowing students to explore emergency situations safely while learning the value of safety procedures. 
